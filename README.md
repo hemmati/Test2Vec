@@ -1,1 +1,1 @@
-# TOSEM2022
+# The repository for the Test2Vec paper
